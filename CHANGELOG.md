@@ -1,3 +1,24 @@
+* 3.1.0 -> 
+    * updated core and other mods
+        * scenery update to fix terrain bug
+        * armor update to 
+            * remove the mistlands armor (Ulf...) that accidentaly was available for crafting from iron
+    * reworked rope crafting
+        * new Hemp plant (not for smoking!)
+        * replaced straw and rope (from cotton) to rope made from Hemp
+        * replaced usage of straw rope with rope made from Hemp
+    * reworked fabric crafting
+        * Sheep do now have drops
+        * wool replaces cotton, cotton will be moved to Plains
+            * recipes already changed
+            * plant will be in future only growing in Plains
+            * spawns now only in Plains
+        * fabrics can be made from wool and cotton
+        * wool fabric is now used across armors
+        * reworked Spinning Wheel
+            * now uses Spools to create thread
+    * reworked some trophies, and added more of them
+    * changed Shadows in BF to Boss faction
 * 3.0.6 -> spawns the rocktopus
 * 3.0.5 -> adding the startup accelerator as default
 * 3.0.4 -> also now added AzuExtendedPlayerInventory with 4 extra rows and equipment and quickslots as defaults
