@@ -1,3 +1,6 @@
+* 3.1.1 -> 
+    * be careful sailing or swimming too far out :D
+    * updated dependencies
 * 3.1.0 -> 
     * updated core and other mods
         * scenery update to fix terrain bug
