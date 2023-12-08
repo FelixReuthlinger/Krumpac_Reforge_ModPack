@@ -1,3 +1,6 @@
+* 3.1.2 ->
+    * reduced hay and hemp spawn a little due to too much resources now
+    * increased troll trophy drop chance, since now part of progress
 * 3.1.1 -> 
     * be careful sailing or swimming too far out :D
     * updated dependencies
