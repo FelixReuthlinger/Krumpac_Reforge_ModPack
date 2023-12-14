@@ -1,3 +1,5 @@
+* 3.1.3 ->
+    * updated dependencies to pre-valheim patch 0.217.18, downloading 3.1.3 should work with default_old if you do not update any mod any further
 * 3.1.2 ->
     * reduced hay and hemp spawn a little due to too much resources now
     * increased troll trophy drop chance, since now part of progress
