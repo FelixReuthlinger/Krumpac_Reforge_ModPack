@@ -1,3 +1,6 @@
+* 3.1.4 ->
+    * moved rat raid back to non-supplemental raids file, since it seems the mod is not loading supplemental raids properly...
+    * fixed Giant Neck spawning only at night
 * 3.1.3 ->
     * updated dependencies to pre-valheim patch 0.217.18, downloading 3.1.3 should work with default_old if you do not update any mod any further
 * 3.1.2 ->
