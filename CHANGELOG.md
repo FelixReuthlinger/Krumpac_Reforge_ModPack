@@ -1,3 +1,5 @@
+* 3.1.5 ->
+    * fixed some ocean spawner settings
 * 3.1.4 ->
     * moved rat raid back to non-supplemental raids file, since it seems the mod is not loading supplemental raids properly...
     * fixed Giant Neck spawning only at night
