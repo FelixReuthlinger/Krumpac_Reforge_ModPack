@@ -1,3 +1,8 @@
+* 3.1.6 ->
+    * more enchantment recipe preps
+    * disabled enchanting vfx on weapons
+    * eikthyr (new) drops added
+    * drops for the new elder added
 * 3.1.5 ->
     * fixed some ocean spawner settings
 * 3.1.4 ->
