@@ -1,3 +1,7 @@
+* 4.0.0 ->
+    * drop and spawn updates for release
+    * updated dependencies
+    * many more things... see news post
 * 3.1.6 ->
     * more enchantment recipe preps
     * disabled enchanting vfx on weapons
