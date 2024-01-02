@@ -1,7 +1,7 @@
 {
   "name": "Krumpac_Reforge_ModPack",
   "description": "The download for the whole mod pack of Krumpac REFORGE - REGISTRATION AND APPROVAL to closed beta community required - check REAMDE",
-  "version_number": "4.0.0",
+  "version_number": "4.0.1",
   "website_url": "https://valheimreforged.com/",
   "dependencies": [
     "Krumpac-Datys_Professions-4.0.0",
@@ -11,7 +11,7 @@
     "Krumpac-Krumpac_Reforge_Core-4.0.0",
     "Krumpac-Krumpac_Reforge_Loading_Screens-3.0.0",
     "Krumpac-Krumpac_Reforge_Monster_01-0.2.2",
-    "Krumpac-Krumpac_Reforge_Praying_System-4.0.1",
+    "Krumpac-Krumpac_Reforge_Praying_System-4.0.2",
     "Krumpac-Krumpac_Reforge_Scenery-3.0.2",
     "Krumpac-Krumpac_Reforge_Translations-4.0.0",
     "Krumpac-Krumpac_Reforge_UI-1.0.8",

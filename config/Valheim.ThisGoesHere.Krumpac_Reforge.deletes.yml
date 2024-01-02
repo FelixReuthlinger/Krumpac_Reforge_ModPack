@@ -1,24 +1,6 @@
 ﻿PrintComment: ThisGoesHere cleans up the Krumpac configs to let them be regenerated and delete outdated files and mods
-DeleteFile:
-- plugins/Krumpacs_Biome_Clutter.dll
-- config/Datys.Datys_Professions.cfg
-- config/Krumpac.Krumpac_Armors.cfg
-- config/Krumpac.Krumpac_Building_Pieces.cfg
-- config/Krumpac.Krumpac_Dungeon_Meadows.cfg
-- config/Krumpac.Krumpac_Reforge_Core.cfg
-- config/Krumpac.Krumpac_Sacrificing_Altars.cfg
-- config/Krumpac.Krumpac_Tribe_Ornaments.cfg
-- config/Krumpac.Krumpac_Weapon_Arsenal.cfg
-# spawners
-- config/spawn_that.world_spawners.Core.Plants.cfg
-- config/spawn_that.world_spawners.Professions.cfg
-# Keep Files
-# config/Krumpac_Praying_System.cfg
-# config/spawn_that.world_spawners.Plants.cfg
-# config/spawn_that.world_spawners.Fishies.cfg
 DeleteFolder:
 - config\KeyManager\
-- plugins\Krumpacs_Biome_Clutter\
 MoveFolder:
 - From: plugins/Krumpac-Krumpacs_Biome_Clutter_2/Krumpacs Biome Clutter
   To: plugins/
