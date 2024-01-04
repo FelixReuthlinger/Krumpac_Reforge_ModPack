@@ -1,3 +1,6 @@
+* 4.0.2 ->
+    * included / corrected the drop configurations to have all necessary creature drops for datys professions
+    * updated dependencies
 * 4.0.1 -> 
     * turned off the config file deleting at game start, so, players can set the things in the config files (this was a very old left over mechanic back then required because recipes were added to config files)
     * updated dependencies
