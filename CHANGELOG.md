@@ -1,3 +1,6 @@
+* 4.0.3 ->
+    * updated dependencies
+    * outlaw and shark drops added
 * 4.0.2 ->
     * included / corrected the drop configurations to have all necessary creature drops for datys professions
     * updated dependencies
