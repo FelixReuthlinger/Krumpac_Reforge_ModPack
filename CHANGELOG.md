@@ -1,3 +1,8 @@
+* 5.0.0 ->
+    * bumped version to align with other mods 5.0.0 version
+    * updated mods dependencies
+    * 1 major new mod still missing, will be fixed with TS ops soon, hopefully
+    * TBD updates on configs, etc.
 * 4.0.3 ->
     * updated dependencies
     * outlaw and shark drops added
