@@ -1,3 +1,8 @@
+* 5.0.3 -> re-added reforge UI after fixing it
+* 5.0.2 ->
+    * removed Reforge UI, since some mod of it might require fixing
+    * removed also meadows dungeon
+    * make sure that you remove those above, if previously installed, or even better -> create a new profile
 * 5.0.1 ->
     * added the missing locations mod after it could be uploaded finally
     * updated some remaining dependencies
