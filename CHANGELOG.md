@@ -1,3 +1,6 @@
+* 5.0.1 ->
+    * added the missing locations mod after it could be uploaded finally
+    * updated some remaining dependencies
 * 5.0.0 ->
     * bumped version to align with other mods 5.0.0 version
     * updated mods dependencies
