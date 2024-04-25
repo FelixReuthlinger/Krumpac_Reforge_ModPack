@@ -1,3 +1,5 @@
+* 5.0.4 ->
+    * updated dependencies
 * 5.0.3 -> re-added reforge UI after fixing it
 * 5.0.2 ->
     * removed Reforge UI, since some mod of it might require fixing
