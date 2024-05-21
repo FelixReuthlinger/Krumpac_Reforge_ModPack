@@ -1,3 +1,7 @@
+* 6.0.0 -> !! PRE - RELEASE !!
+    * BEWARE: this is still NOT a full 6.0.0 release, since SOME MODS MISS UPDATES!!
+    * adjusted spawn that configs
+    * updated dependencies
 * 5.0.4 ->
     * updated dependencies
 * 5.0.3 -> re-added reforge UI after fixing it
