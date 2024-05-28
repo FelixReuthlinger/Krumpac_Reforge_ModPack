@@ -1,3 +1,4 @@
+* 6.0.1 -> Release version 6 should be complete
 * 6.0.0 -> !! PRE - RELEASE !!
     * BEWARE: this is still NOT a full 6.0.0 release, since SOME MODS MISS UPDATES!!
     * adjusted spawn that configs
