@@ -1,3 +1,9 @@
+* 6.1.0 ->
+    * updates for 6.1 release:
+        * new black forest crypt replacing old crypt (burial chambers)
+        * copper ores only in crypt, not on surface anymore
+        * many more things, see discord message
+    * updated dependencies
 * 6.0.2 ->
     * updated dependencies
     * replaced drops of Serpent also for the new Krump_Monsters_Ocean_Serpent, now it will drop loot
