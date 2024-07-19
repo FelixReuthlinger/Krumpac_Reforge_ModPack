@@ -1,3 +1,4 @@
+* 6.1.1 -> added drops for the dungeon spiders
 * 6.1.0 ->
     * updates for 6.1 release:
         * new black forest crypt replacing old crypt (burial chambers)
