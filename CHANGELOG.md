@@ -1,3 +1,6 @@
+* 6.1.3 ->
+    * drunkard operation modpack )soory :D(
+    * adding mineshafts to black forest, but requires new map or genloc
 * 6.1.1 -> added drops for the dungeon spiders
 * 6.1.0 ->
     * updates for 6.1 release:
