@@ -1,6 +1,10 @@
 ﻿PrintComment: ThisGoesHere cleans up the Krumpac configs to let them be regenerated and delete outdated files and mods
 DeleteFolder:
-- config\KeyManager\
+- config/KeyManager/
+DeleteFile:
+- plugins/Krumpac-Krumpac_Dungeon_BlackForest/Krumpac.Krumpac_Dungeon_Meadows.cfg
+- plugins/Krumpac-Krumpac_Dungeon_BlackForest/Krumpac_Dungeon_Meadows.dll
+- plugins/Krumpac-Krumpac_Dungeon_BlackForest/translations/Krumpac_Dungeon_Meadows.English.yml
 MoveFolder:
 - From: plugins/Krumpac-Krumpacs_Biome_Clutter_2/Krumpacs Biome Clutter
   To: plugins/
