@@ -1,5 +1,5 @@
-* 6.1.4 ->
-    * added this goes here settings to clean up the mess in the bad upload from 6.1.3
+* 6.1.5 -> updated dependencies
+* 6.1.4 -> added this goes here settings to clean up the mess in the bad upload from 6.1.3
 * 6.1.3 ->
     * drunkard operation modpack )soory :D(
     * adding mineshafts to black forest, but requires new map or genloc
