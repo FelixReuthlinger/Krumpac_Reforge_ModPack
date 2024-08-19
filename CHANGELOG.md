@@ -1,3 +1,33 @@
+* 6.2.0 ->
+    * we added a bunch of QOL and play enhancement (new skills) mods to the mod packs dependencies
+        * the reason for adding some of them is that we anyways recommend players to add those, now we do not need to explain and explain configs for those anymore, some other mods add to the gameplay, where the vanilla skill set lacks features
+        * those mods are created by our favorite modders 'azumatt and 'theblaxxun 
+        * added default configs for those mods
+        * mods added:
+            * AAA -> faster crafting and multiple crafting
+            * Area Repair -> repair multiple building pieces at once
+            * Auto Store -> helps storing items (hotkey "T") into boxes that have the same item already, also allows to add multiple items to smelter implementations (hotkey "T" + "E"), default distance for finding boxes is set to 50m
+            * Container Sizes -> increasing the default wood chest size from 8 to 24 fields (less pain for players in the beginning, worthy upgrades still by using our custom boxes later in game)
+            * Crafty Boxes (craft from boxes) -> helps to not need to have every item for a recipe in inventory for crafting, since there are sooooo many in reforge, reduced the tedious running back and forth while crafting; default range for box content discovery for crafting is set to 100m (allowing larger bases)
+            * Hover Stats -> enables showing box contents while hovering with mouse over it (other features disabled)
+            * Workbench Tweaks -> adds auto repairing when approaching a workbench, workbench range and extension ranges set to 50m
+            * Build Camera -> press "N" to get into build camera mode to have easier building options
+            * Config Manager -> press "F1" to get the config manager UI to adjust any configs in-game
+            * Building Skill -> the more you build the stronger (health and support) your buildings become (newly built pieces only)
+            * Evasion Skill -> requires less stamina for dodging per level
+            * Stamina regeneration from food -> adds some more stamina regeneration if you eat food (food buff)
+            * Foraging Skill -> increases the pickup range for pickables (no need to click many times for many pickables nearby) and adds pickable output (number of drops) per level
+            * Lumberjacking Skill -> do more damage to trees and gain more wood per level
+            * Mining Skill -> do more damage to mineables and gain more ore per level
+            * Pack Horse Skill -> carry more weight per level
+            * Ranching Skill -> gain more, unlock displayed helpful taming information on level 10, 20, 40
+            * Sailing Skill -> sail faster, stronger boats, more exploration radius per level
+            * Steady Regeneration -> will add health and stamina points continuously not in chunks
+            * Target Portal -> will change the way portals work from "you need to construct a pair of portals" to "contructing a portal allows you to connect to all other portals", press button "P" to display / hide target portal map icons
+            * Tenacity Skill -> increases damage resistance of the player per level (level gained by receiving damage)
+            * Vitality Skill -> increases the player health, health regen (from level 30), etc. per level - levels gained by eating food
+        * We are aware that adding some of those mods do change game behavior and might conflict with other mods used that try to do similar things, feel free to report inconvenient compatibility issues with the selected mods
+    * updated dependencies
 * 6.1.6 -> 
     * updated dependencies
     * new content / content changes, see discord news post
