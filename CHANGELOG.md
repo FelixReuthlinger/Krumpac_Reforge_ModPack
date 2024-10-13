@@ -1,3 +1,4 @@
+* 6.2.1 -> updated dependencies
 * 6.2.0 ->
     * we added a bunch of QOL and play enhancement (new skills) mods to the mod packs dependencies
         * the reason for adding some of them is that we anyways recommend players to add those, now we do not need to explain and explain configs for those anymore, some other mods add to the gameplay, where the vanilla skill set lacks features
