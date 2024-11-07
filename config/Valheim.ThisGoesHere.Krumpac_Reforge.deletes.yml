@@ -1,12 +1,6 @@
-﻿PrintComment: ThisGoesHere cleans up the Krumpac configs to let them be regenerated and delete outdated files and mods
+﻿PrintComment: ThisGoesHere prepares the mod pack
 DeleteFolder:
 - config/KeyManager/
-DeleteFile:
-- plugins/Krumpac-Krumpac_Dungeon_BlackForest/Krumpac.Krumpac_Dungeon_Meadows.cfg
-- plugins/Krumpac-Krumpac_Dungeon_BlackForest/Krumpac_Dungeon_Meadows.dll
-- plugins/Krumpac-Krumpac_Dungeon_BlackForest/translations/Krumpac_Dungeon_Meadows.English.yml
-MoveFolder:
-- From: plugins/Krumpac-Krumpacs_Biome_Clutter_2/Krumpacs Biome Clutter
-  To: plugins/
-- From: plugins/Krumpac-Krumpacs_Biome_Clutter/Krumpacs Biome Clutter
-  To: plugins/
+CopyFile:
+- From: config/overrides/blacks7ar.VikingsDoSwim.cfg
+  To: config/blacks7ar.VikingsDoSwim.cfg

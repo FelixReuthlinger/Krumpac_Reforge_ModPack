@@ -1,3 +1,8 @@
+* 7.0.0 -> v7 release preparations
+    * updated raids with new creatures
+    * updated dependencies
+    * reworked thisgoeshere configs
+    * added new creatures for spawning and dropping (partially)
 * 6.2.1 -> updated dependencies
 * 6.2.0 ->
     * we added a bunch of QOL and play enhancement (new skills) mods to the mod packs dependencies
