@@ -1,3 +1,7 @@
+* 7.0.2
+    * readded Professions
+    * dependency updates
+    * added asfangstein drops
 * 7.0.1
     * updating reforge dependencies
     * temporarily removed professions from dependencies, since it is still not uploaded in working version
