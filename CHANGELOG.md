@@ -1,3 +1,6 @@
+* 7.0.1
+    * updating reforge dependencies
+    * temporarily removed professions from dependencies, since it is still not uploaded in working version
 * 7.0.0 -> v7 release preparations
     * updated raids with new creatures
     * updated dependencies
