@@ -1,3 +1,7 @@
+* 7.0.3 
+    * updated dependencies
+    * removed foraging mod
+    * drops and spawn config updates
 * 7.0.2
     * readded Professions
     * dependency updates
