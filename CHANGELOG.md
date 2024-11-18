@@ -1,3 +1,10 @@
+* 7.0.4
+    * updated dependencies
+    * checked raid configs, no source for spawning giant necks found
+    * removed tin drops from random rocks
+    * splits drops configs into more files per biome
+    * added first person mod
+    * added new drops for haugars
 * 7.0.3 
     * updated dependencies
     * removed foraging mod
