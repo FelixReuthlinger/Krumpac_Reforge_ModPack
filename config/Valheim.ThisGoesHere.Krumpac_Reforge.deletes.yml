@@ -1,6 +1,7 @@
 ﻿PrintComment: ThisGoesHere prepares the mod pack
 DeleteFolder:
 - config/KeyManager/
+- plugins/Azumatt-AzuExtendedPlayerInventory/
 CopyFile:
 - From: config/overrides/blacks7ar.VikingsDoSwim.cfg
   To: config/blacks7ar.VikingsDoSwim.cfg

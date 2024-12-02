@@ -1,3 +1,9 @@
+* 7.0.5
+    * updated dependencies, should work for Valheim version 0.219.16
+    * removed azu extended inv mod, replaced it with extra slots more from shudnal
+    * fixed eagle spawn settings
+    * removed direct meat drops from creatures as carcasses will only be used from now
+    * fixed some VES configs
 * 7.0.4
     * updated dependencies
     * checked raid configs, no source for spawning giant necks found
