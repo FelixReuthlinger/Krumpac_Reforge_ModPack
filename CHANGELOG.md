@@ -1,3 +1,5 @@
+* 7.1.0
+    * updated dependencies for complete modpack with a lot of changes, see discord
 * 7.0.7
     * Krump's play testing changes to spawns and drops
     * updated dependencies
