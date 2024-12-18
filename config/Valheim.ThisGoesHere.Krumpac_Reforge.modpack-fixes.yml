@@ -1,7 +1,9 @@
-﻿PrintComment: ThisGoesHere prepares the mod pack
+﻿PrintComment: ThisGoesHere prepares the mod pack - removing KM and fixing configs
 DeleteFolder:
 - config/KeyManager/
 - plugins/Azumatt-AzuExtendedPlayerInventory/
+DeleteFile:
+- config/Valheim.ThisGoesHere.Krumpac_Reforge.yml
 CopyFile:
 - From: config/overrides/blacks7ar.VikingsDoSwim.cfg
   To: config/blacks7ar.VikingsDoSwim.cfg

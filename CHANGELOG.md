@@ -1,3 +1,6 @@
+* 7.0.6
+    * updated dependencies
+    * updated this goes here file to apply the correct fixes everywhere
 * 7.0.5
     * updated dependencies, should work for Valheim version 0.219.16
     * removed azu extended inv mod, replaced it with extra slots more from shudnal
