@@ -1,3 +1,6 @@
+* 7.0.7
+    * Krump's play testing changes to spawns and drops
+    * updated dependencies
 * 7.0.6
     * updated dependencies
     * updated this goes here file to apply the correct fixes everywhere

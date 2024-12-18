@@ -1,7 +1,7 @@
 {
   "name": "Krumpac_Reforge_ModPack",
   "description": "The download for the whole mod pack of Krumpac REFORGE - REGISTRATION AND APPROVAL to closed beta community required - check REAMDE",
-  "version_number": "7.0.6",
+  "version_number": "7.0.7",
   "website_url": "https://valheimreforged.com/",
   "dependencies": [
     "Krumpac-Datys_Professions-7.0.2",
@@ -12,9 +12,9 @@
     "Krumpac-Krumpac_Dungeon_BlackForest-7.0.3",
     "Krumpac-Krumpac_Reforge_Loading_Screens-7.0.0",
     "Krumpac-Krumpac_Reforge_Monster_01-7.0.1",
-    "Krumpac-Krumpac_Reforge_Praying_System-7.0.6",
+    "Krumpac-Krumpac_Reforge_Praying_System-7.0.7",
     "Krumpac-Krumpac_Reforge_Scenery-7.0.1",
-    "Krumpac-Krumpac_Reforge_Translations-7.0.8",
+    "Krumpac-Krumpac_Reforge_Translations-7.0.10",
     "Krumpac-Krumpac_Reforge_UI-7.0.0",
     "Krumpac-Krumpac_Reforged_Audio-7.0.1",
     "Krumpac-Krumpac_Sacrificing_Altars-7.0.4",
