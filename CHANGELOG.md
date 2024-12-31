@@ -1,3 +1,6 @@
+* 7.1.1
+    * updated drop config for blackforest
+    * updated dependencies
 * 7.1.0
     * updated dependencies for complete modpack with a lot of changes, see discord
 * 7.0.7
