@@ -1,3 +1,8 @@
+* 7.2.0 
+    * updated dependencies, many reforge mod updated release
+    * added afterlife mod
+    * changed swimming key function, removing direct ascend function
+    * added oxygen bubble spawner in ocean
 * 7.1.1
     * updated drop config for blackforest
     * updated dependencies
