@@ -1,3 +1,12 @@
+* 7.2.1
+    * updated dependencies to latest versions (available now)
+    * other non-reforge mods should be up-to-date with this
+    * removed a bunch of 3rd party mods:
+        * AfterDeath (turned out this makes to game too easy and not survival fun)
+        * Mining (rocks will have lower HP and more drops with next release)
+        * Lumberjacking (trees will have lower HP and more drops with next release)
+        * Ranching (INCOMPATIBILITY that did remove tamed creatures)
+    * this is NOT a full release update, yet, just preparing step-by-step
 * 7.2.0 
     * updated dependencies, many reforge mod updated release
     * added afterlife mod
